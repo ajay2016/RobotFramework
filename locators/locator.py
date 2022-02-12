@@ -1,0 +1,1 @@
+LOGIN_ERROR_MSG = "css:.alert-danger"
